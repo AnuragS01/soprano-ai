@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/soprano-ai/static/css/main.95621137.chunk.css",
+    "main.js": "/soprano-ai/static/js/main.5095ba29.chunk.js",
+    "main.js.map": "/soprano-ai/static/js/main.5095ba29.chunk.js.map",
+    "runtime-main.js": "/soprano-ai/static/js/runtime-main.e1cc9e34.js",
+    "runtime-main.js.map": "/soprano-ai/static/js/runtime-main.e1cc9e34.js.map",
+    "static/css/2.95cdca52.chunk.css": "/soprano-ai/static/css/2.95cdca52.chunk.css",
+    "static/js/2.9ae0f14a.chunk.js": "/soprano-ai/static/js/2.9ae0f14a.chunk.js",
+    "static/js/2.9ae0f14a.chunk.js.map": "/soprano-ai/static/js/2.9ae0f14a.chunk.js.map",
+    "static/js/3.1ae9c8ad.chunk.js": "/soprano-ai/static/js/3.1ae9c8ad.chunk.js",
+    "static/js/3.1ae9c8ad.chunk.js.map": "/soprano-ai/static/js/3.1ae9c8ad.chunk.js.map",
+    "index.html": "/soprano-ai/index.html",
+    "static/css/2.95cdca52.chunk.css.map": "/soprano-ai/static/css/2.95cdca52.chunk.css.map",
+    "static/css/main.95621137.chunk.css.map": "/soprano-ai/static/css/main.95621137.chunk.css.map",
+    "static/js/2.9ae0f14a.chunk.js.LICENSE.txt": "/soprano-ai/static/js/2.9ae0f14a.chunk.js.LICENSE.txt",
+    "static/media/Cargo_watch_presentation1.14b703c6.png": "/soprano-ai/static/media/Cargo_watch_presentation1.14b703c6.png",
+    "static/media/Screenshot1.cd12e7ce.png": "/soprano-ai/static/media/Screenshot1.cd12e7ce.png",
+    "static/media/Screenshot2.be566aca.png": "/soprano-ai/static/media/Screenshot2.be566aca.png",
+    "static/media/facebook.8bf37d38.svg": "/soprano-ai/static/media/facebook.8bf37d38.svg",
+    "static/media/font-awesome.css": "/soprano-ai/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/image.e1b982cc.png": "/soprano-ai/static/media/image.e1b982cc.png",
+    "static/media/image2.bfffb1eb.png": "/soprano-ai/static/media/image2.bfffb1eb.png",
+    "static/media/img-client-2.37c43fe8.png": "/soprano-ai/static/media/img-client-2.37c43fe8.png",
+    "static/media/img-client.5760afd6.png": "/soprano-ai/static/media/img-client.5760afd6.png",
+    "static/media/instagram.f3028ed7.svg": "/soprano-ai/static/media/instagram.f3028ed7.svg",
+    "static/media/soprano-ai.0b9a93c1.svg": "/soprano-ai/static/media/soprano-ai.0b9a93c1.svg",
+    "static/media/twitter.2420f946.svg": "/soprano-ai/static/media/twitter.2420f946.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e1cc9e34.js",
+    "static/css/2.95cdca52.chunk.css",
+    "static/js/2.9ae0f14a.chunk.js",
+    "static/css/main.95621137.chunk.css",
+    "static/js/main.5095ba29.chunk.js"
+  ]
+}
